@@ -10,7 +10,7 @@
 
 
 ### Github Stats 📈
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHumk)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHumk)]
 
 ### Tools 🛠️
 [<img alt="Android" src="https://img.shields.io/badge/-Android%20Studio-32CD32?logo=Android%20Studio&logoColor=white&style=for-the-badge&logoWidth=15" />](https://developer.android.com/studio) 
