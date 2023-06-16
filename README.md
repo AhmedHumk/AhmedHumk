@@ -14,7 +14,7 @@
 [<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?logo=Node.js&logoColor=white&style=for-the-badge&logoWidth=15" />](https://nodejs.dev/)
 
 ### Contact ME 📫 
-[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/AhmedHumk) 
+[<img alt="Github" src="https://img.shields.io/badge/GitHub-000000?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/AhmedHumk) 
 [<img alt="Twitter" src="https://img.shields.io/badge/TikTok-000000?&style=for-the-badge&logo=TikTok&logoColor=white" />](https://www.tiktok.com/@puremindforever)
 
 
