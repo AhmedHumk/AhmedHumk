@@ -7,6 +7,8 @@
 [<img alt="Android" src="https://img.shields.io/badge/-Kotlin-32CD32?logo=kotlin&logoColor=white&style=for-the-badge&logoWidth=15" />](https://developer.android.com/studio) 
 [<img alt="Delphi" src="https://img.shields.io/badge/-Delphi%20Pascal-FF0000?logo=delphi&logoColor=white&style=for-the-badge&logoWidth=15" />](https://www.embarcadero.com/products/delphi) 
 [<img alt="Python" src="https://img.shields.io/badge/-Python-FFD700?logo=Python&logoColor=white&style=for-the-badge&logoWidth=15" />](https://www.python.org/) 
+[<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-4169E1?logo=TypeScript&logoColor=white&style=for-the-badge&logoWidth=15" />](https://www.python.org/) 
+
 <!--
 **AhmedHumk/AhmedHumk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
