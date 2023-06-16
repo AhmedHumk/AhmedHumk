@@ -13,6 +13,11 @@
 [<img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?&logo=visual%20studio%20code&logoColor=white&style=for-the-badge&logoWidth=15" />](https://code.visualstudio.com/)
 [<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?logo=Node.js&logoColor=white&style=for-the-badge&logoWidth=15" />](https://nodejs.dev/)
 
+### Contact ME 📫 
+[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/AhmedHumk) 
+[<img alt="Twitter" src="https://img.shields.io/badge/TikTok-000000?&style=for-the-badge&logo=TikTok&logoColor=white" />](https://www.tiktok.com/@puremindforever)
+
+
 <!--
 **AhmedHumk/AhmedHumk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
