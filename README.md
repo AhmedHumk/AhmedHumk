@@ -3,7 +3,9 @@
 ⚡ Gender: Male
 
 ### Languages 👨‍💻
+[<img alt="Delphi" src="https://img.shields.io/badge/-JAVA%20Eclipse-663399?logo=Eclipse&logoColor=white&style=for-the-badge&logoWidth=15" />](https://www.eclipse.org/) 
 [<img alt="Delphi" src="https://img.shields.io/badge/-Delphi%20Pascal-FF0000?logo=delphi&logoColor=white&style=for-the-badge&logoWidth=15" />](https://www.embarcadero.com/products/delphi) 
+
 
 <!--
 **AhmedHumk/AhmedHumk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
